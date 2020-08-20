@@ -1,2 +1,14 @@
-# explain.how_to_enable_java.on_vscode
-VSCode で Java プロジェクトを使えるようにする方法を説明します
+# VSCode で Java プロジェクトを使えるようにする
+VSCode で Java 環境を整える前に、以下の事前準備だけは済ませておく。
+
+## 事前準備
+- VSCode ポータブルのインストール（配置）
+- Java（OpenJDK 11）のインストール
+
+準備ができていない場合は、以下のページを参照する。
+
+VSCode ポータブル版のインストール方法:  
+[https://github.com/fs5013-furi-sutao/explain.how_to_install_vscode.portable](https://github.com/fs5013-furi-sutao/explain.how_to_install_vscode.portable)
+
+Java をインストールする（Scoop を使って）:  
+[https://github.com/fs5013-furi-sutao/explain.how_to_install_java.with_scoop](https://github.com/fs5013-furi-sutao/explain.how_to_install_java.with_scoop)
