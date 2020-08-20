@@ -42,29 +42,51 @@ Java Extension Pack をインストールすることで、以下の 6 つの拡
 
 まず、サイドバーを `Ctr + B` で閉じる。
 
-### コマンドパレットを開く
+### 1. コマンドパレットを開く
 `Ctr + Shift + P` でコマンドパレットを開く。
 
-### Java プロジェクト作成コマンドの実行
+### 2. Java プロジェクト作成コマンドの実行
 コマンドパレットに「create java」と入力する。コマンドの候補に `Java: Create Java Project...` と表示されるので、このコマンドを Enter で選択する。
 
-### プロジェクトの種類を決定 
+### 3. プロジェクトの種類を決定 
 「Select the project type」とプロジェクトの種類を求められるので、「No build tools」を選択する。
 
-### フォルダの選択
+### 4. フォルダの選択
 フォルダ選択ダイアログが開いて、プロジェクトを作成する場所を求められるので、フォルダを選択して「Select the project location」ボタンを押して決定する。
 
 例えば、デスクトップにプロジェクトを作成したい場合は、デスクトップを選択する。
 
-### プロジェクト名の入力
+### 5. プロジェクト名の入力
 「Input a Java project name」とプロジェクト名の入力を求められるので、好きなプロジェクト名を入力する。
 
 今回は「first.java.project」と入力して、Enter キーを押す。
 
 やっぱ、やめる・・・という場合は、ここで `Esc` キーを押せば、プロジェクトの作成をキャンセルできる。
 
+### 6. ちょっぴり待つ
+これだけやれば、あとは Project Manager がプロジェクトを作成し、Language Support for Java が Java Language Server を起動してくれる。
 
+## エクスプローラを見る
+プロジェクトが出来上がると、サイドバーが開く。フォルダ階層が表示され、以下のような構成になっているはず。
 
+```
+first.java.project
+├─ lib
+└─ src
+     App.java
+  README.md
+```
+
+この中から `App.java` を開く。
+
+```java
+public class App {
+    Run | Debug
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello, World!");
+    }
+}
+```
 
 
 
