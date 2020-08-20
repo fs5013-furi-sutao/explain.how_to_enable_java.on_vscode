@@ -24,4 +24,4 @@ Java をインストールする（Scoop を使って）:
 インストール候補に `Java Extension Pack` が表示されたら、`install` ボタンを押す。
 
 <div style="background-color: #008000 !important;">install</div>
-
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
