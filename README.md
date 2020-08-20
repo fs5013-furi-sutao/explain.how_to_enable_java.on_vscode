@@ -15,3 +15,6 @@ VSCode ポータブル版のインストール方法:
 
 Java をインストールする（Scoop を使って）:  
 [https://github.com/fs5013-furi-sutao/explain.how_to_install_java.with_scoop](https://github.com/fs5013-furi-sutao/explain.how_to_install_java.with_scoop)
+
+## 拡張機能 Java Extension Pack のインストール  
+
