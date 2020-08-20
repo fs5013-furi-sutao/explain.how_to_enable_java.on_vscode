@@ -17,4 +17,11 @@ Java をインストールする（Scoop を使って）:
 [https://github.com/fs5013-furi-sutao/explain.how_to_install_java.with_scoop](https://github.com/fs5013-furi-sutao/explain.how_to_install_java.with_scoop)
 
 ## 拡張機能 Java Extension Pack のインストール  
+拡張機能ペインを開く。拡張機能ペイン（EXTENSIONS）を開くには、`Ctr + Shift + X'` を押下する。
+
+ペインが開いたら、検索窓に「java」と入力する。
+
+インストール候補に `Java Extension Pack` が表示されたら、`install` ボタンを押す。
+
+<span style="background-color: green;">install</span>
 
