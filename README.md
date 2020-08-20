@@ -25,3 +25,6 @@ Java をインストールする（Scoop を使って）:
 
 <div style="background-color: #008000 !important;">install</div>
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
