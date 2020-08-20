@@ -3,6 +3,7 @@
 - Windows 10  
 
 VSCode で Java 環境を整える前に、以下の事前準備だけは済ませておく。:hamster:
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## 事前準備
 - VSCode ポータブルのインストール（配置）
@@ -23,6 +24,51 @@ Java をインストールする（Scoop を使って）:
 
 インストール候補に `Java Extension Pack` が表示されたら、`install` ボタンを押す。
 
-<span style="color:red">直接記述</span>
+インストールが完了したら、必要なものがきちんとインストールされているか、念のため確認をしておく。
 
-https://www.webfx.com/tools/emoji-cheat-sheet/
+拡張機能ペインの検索窓に「@installed」と入力する。
+
+Java Extension Pack をインストールすることで、以下の 6 つの拡張機能がひと通りインストールされるはずである。
+
+- Language Support for Java(TM) by Red Hat
+- Debugger for Java
+- Java Test Runner
+- Maven for Java
+- Project Manager for Java
+- Visual Studio IntelliCode
+
+## 最初の Java プロジェクト
+もっとも簡単な Java プロジェクトを作って動かしてみる。
+
+まず、サイドバーを `Ctr + B` で閉じる。
+
+### コマンドパレットを開く
+`Ctr + Shift + P` でコマンドパレットを開く。
+
+### Java プロジェクト作成コマンドの実行
+コマンドパレットに「create java」と入力する。コマンドの候補に `Java: Create Java Project...` と表示されるので、このコマンドを Enter で選択する。
+
+### プロジェクトの種類を決定 
+「Select the project type」とプロジェクトの種類を求められるので、「No build tools」を選択する。
+
+### フォルダの選択
+フォルダ選択ダイアログが開いて、プロジェクトを作成する場所を求められるので、フォルダを選択して「Select the project location」ボタンを押して決定する。
+
+例えば、デスクトップにプロジェクトを作成したい場合は、デスクトップを選択する。
+
+### プロジェクト名の入力
+「Input a Java project name」とプロジェクト名の入力を求められるので、好きなプロジェクト名を入力する。
+
+今回は「first.java.project」と入力して、Enter キーを押す。
+
+やっぱ、やめる・・・という場合は、ここで `Esc` キーを押せば、プロジェクトの作成をキャンセルできる。
+
+
+
+
+
+
+
+
+
+
