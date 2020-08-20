@@ -94,7 +94,7 @@ public class App {
 ## プログラムを動かす
 では、表示されている `Run` リンクを押してみる。プログラムが実行されたのが分かる。
 
-![Java プログラムの実行](./run_java_on_vscode.gif)
+![Java プログラムの実行](./run_java_on_vscoe.gif?raw=true)
 
 プログラムはショートカット、`F5` でも実行を開始できる。
 
