@@ -23,5 +23,5 @@ Java をインストールする（Scoop を使って）:
 
 インストール候補に `Java Extension Pack` が表示されたら、`install` ボタンを押す。
 
-<span style="background-color: green !important;">install</span>
+<div style="background-color: #008000 !important;">install</div>
 
