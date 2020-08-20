@@ -3,7 +3,6 @@
 - Windows 10  
 
 VSCode で Java 環境を整える前に、以下の事前準備だけは済ませておく。:hamster:
-https://www.webfx.com/tools/emoji-cheat-sheet/
 
 ## 事前準備
 - VSCode ポータブルのインストール（配置）
