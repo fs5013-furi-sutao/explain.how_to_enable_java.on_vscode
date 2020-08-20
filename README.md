@@ -23,7 +23,6 @@ Java をインストールする（Scoop を使って）:
 
 インストール候補に `Java Extension Pack` が表示されたら、`install` ボタンを押す。
 
-![#f03c15]
-
+<span style="color:red">直接記述</span>
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
